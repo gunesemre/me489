@@ -1,2 +1,3 @@
-bu bir deneme girdisidir.
+
+son editleme
 emregunes
